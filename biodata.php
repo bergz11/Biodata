@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title></title>
+	<title>Biodata</title>
 </head>
 <body>
 	<form method="POST" action="biodata.php">
